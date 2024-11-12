@@ -1,0 +1,71 @@
+Desenvolvimento Moderno de software 
+O primeiro passo é definir as plataformas onde esse software será executado.
+
+Sistema desktop: são sistemas autônomos de que a instalação é realizada por um arquivo executável.
+Sistema web: remotamente utilizados através de um navegador de internet
+Aplicação móvel: Softwares desenvolvidos para dispositivos móveis. (IOS e/ou Android)
+
+UX/UI Designer 
+UX (Experiência do Usuário)
+Foca em como o usuário se sente ao usar o produto e em como criar uma experiência fácil e agradável.
+1. Prototipação: Criar versões simples do produto para testar e ajustar antes da versão final.
+2. Personas: Criar perfis fictícios que representam os diferentes tipos de usuários do produto.
+3. Objetivos: Definir metas claras para o que o produto deve alcançar.
+4. Pesquisa: Entender as necessidades dos usuários através de entrevistas e testes
+UI (Interface do Usuário)
+Foca no design visual e na interação com o usuário, tornando o produto bonito e fácil de usar.
+1. Layouts: Organizar os elementos na tela de forma clara e funcional.
+2. Design Visual: Cores, fontes, imagens e ícones que tornam o produto visualmente atraente.
+3. Tipografia: Escolher fontes para garantir boa leitura e hierarquia visual.
+4. Micro interações: Pequenas animações ou mudanças visuais para tornar a interação mais interessante (exemplo: animação de botão ao clicar).
+
+Diferença Entre UX e UI
+* UX: Como o usuário vive a experiência do produto.
+* UI: Como o produto se apresenta visualmente e como o usuário interage com ele.
+Modelo cliente-servidor:  é uma estrutura de aplicação que distribui as tarefas e cargas de trabalho entre os fornecedores de um recurso ou serviço, designados como servidores, e os requerentes dos serviços, designados como cliente
+Ex.: Aplicação Bancária 
+==> Não é um fornecedor, é um requerente, pois eu abro essa aplicação para REQUERER uma informação por exemplo o saldo bancário.
+Servidor -->  Internet --> Cliente
+
+Front-end: responsável pela codificação da interface gráfica, a parte visual (HTML, CSS, Java script).
+Frameworks: (Angular, laravel, vue)
+- Facilitadores 
+- Soluções pré-definidas
+
+Back-end: faz a ponte entre os dados que vem do navegador rumo ao banco de dados e vice e versa. Sempre aplicando as devidas regras de negócio, validações e garantias em um ambiente onde o usuário final não tenha acesso e nem possa manipular algo. 
+API: 
+ -Interface de programação de aplicativos
+- Um intermediário que permite que 2 aplicativos conversem entre si.
+“O caminho entre o front e o Black”
+Usuário --> app browser --> API --> Web Server -->Database
+
+ Quality Assurance (QA): verifica se os padrões de qualidade estão sendo atingidos e se todos os requisitos mínimos esperados no produto serão entregues.
+
+Infraestrutura: parte física do servidor 
+Nuvem privada:
+- Segurança da tecnologia da informação (lógica e física).
+- Mão de obra especializada (software e hardware).
+- Infraestrutura local.
+
+Cloud: sistemas de armazenamento de dados disponibilizados via internet.
+Vantagens:
+-Preço 
+- Facilidade de contratação da config e estrutura
+- Escalabilidade 
+- Performance 
+
+Mobile: No desenvolvimento mobile, o back-end segue princípios semelhantes à web, com foco em lógica e banco de dados, mas o front-end é adaptado às interfaces móveis, como no Android Studio, usando XML para layout e Java/Kotlin para lógica de interação.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
